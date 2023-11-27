@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./MessageContainer.css";
 import { Container } from "@mui/system";
 
